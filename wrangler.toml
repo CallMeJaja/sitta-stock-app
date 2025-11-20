@@ -1,0 +1,5 @@
+name = "sitta-stock-app"
+compatibility_date = "2025-11-20"
+
+[site]
+bucket = "./dist"
